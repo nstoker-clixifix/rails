@@ -1,4 +1,6 @@
-# Welcome to Rails
+# DO NOT CLONE - FOR DEBUGGING LOCAL APP ISSUES
+
+## Welcome to Rails
 
 ## What's Rails?
 
